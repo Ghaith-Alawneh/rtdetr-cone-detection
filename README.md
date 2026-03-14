@@ -22,3 +22,6 @@ The model was fine-tuned for 10 epochs and achieved excellent initial metrics, s
 * **Precision:** 91.9%
 * **Recall:** 81.2%
 
+## 📦 Model Weights
+Download the pre-trained weights here:
+[Download best.pt (65 MB)](https://github.com/Ghaith-Alawneh/rtdetr-cone-detection/releases/download/v1.0/best.pt)
